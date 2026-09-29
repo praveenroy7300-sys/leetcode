@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/praveenroy7300-sys/leetcode/tree/master/3731-find-missing-elements) |
+## Math
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/praveenroy7300-sys/leetcode/tree/master/2485-find-the-pivot-integer) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/praveenroy7300-sys/leetcode/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
