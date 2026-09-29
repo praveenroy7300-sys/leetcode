@@ -36,10 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/praveenroy7300-sys/leetcode/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/praveenroy7300-sys/leetcode/tree/master/0061-rotate-list) |
 ## Linked List
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/praveenroy7300-sys/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/praveenroy7300-sys/leetcode/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |
