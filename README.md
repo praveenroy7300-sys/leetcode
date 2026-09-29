@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/praveenroy7300-sys/leetcode/tree/master/0031-next-permutation) |
 | [1051-height-checker](https://github.com/praveenroy7300-sys/leetcode/tree/master/1051-height-checker) |
 | [3731-find-missing-elements](https://github.com/praveenroy7300-sys/leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/praveenroy7300-sys/leetcode/tree/master/2485-find-the-pivot-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/praveenroy7300-sys/leetcode/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
