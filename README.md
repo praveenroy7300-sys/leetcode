@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/praveenroy7300-sys/leetcode/tree/master/0031-next-permutation) |
 | [0078-subsets](https://github.com/praveenroy7300-sys/leetcode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/praveenroy7300-sys/leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/praveenroy7300-sys/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1051-height-checker](https://github.com/praveenroy7300-sys/leetcode/tree/master/1051-height-checker) |
 | [3731-find-missing-elements](https://github.com/praveenroy7300-sys/leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -60,4 +61,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/praveenroy7300-sys/leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/praveenroy7300-sys/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
