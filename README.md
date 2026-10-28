@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/praveenroy7300-sys/leetcode/tree/master/0031-next-permutation) |
+| [0055-jump-game](https://github.com/praveenroy7300-sys/leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/praveenroy7300-sys/leetcode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/praveenroy7300-sys/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/praveenroy7300-sys/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -60,6 +61,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/praveenroy7300-sys/leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/praveenroy7300-sys/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/praveenroy7300-sys/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/praveenroy7300-sys/leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
