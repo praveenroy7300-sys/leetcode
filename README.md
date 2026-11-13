@@ -27,10 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/praveenroy7300-sys/leetcode/tree/master/0012-integer-to-roman) |
 | [3731-find-missing-elements](https://github.com/praveenroy7300-sys/leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/praveenroy7300-sys/leetcode/tree/master/0012-integer-to-roman) |
 | [2485-find-the-pivot-integer](https://github.com/praveenroy7300-sys/leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Prefix Sum
 |  |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/praveenroy7300-sys/leetcode/tree/master/0055-jump-game) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/praveenroy7300-sys/leetcode/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
